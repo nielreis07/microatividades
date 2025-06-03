@@ -1,8 +1,8 @@
-Documentação do Trabalho: Microatividades em Python
+# Documentação do Trabalho: Microatividades em Python
 
 Este trabalho tem como objetivo fixar os conceitos básicos de programação em Python, explorando estruturas como condicionais, laços e funções, tudo de forma prática e simples. As microatividades são exercícios que me permitiram praticar o que aprendi na teoria, aplicando no terminal para entender melhor o funcionamento do código.
 
-O que eu aprendi e pratiquei aqui:
+# O que eu aprendi e pratiquei aqui:
 
 -Como usar if, elif e else para tomar decisões no código 
 
@@ -16,7 +16,8 @@ O que eu aprendi e pratiquei aqui:
 
 -Tudo isso com uma pegada interativa, pedindo dados no terminal para deixar o aprendizado mais dinâmico.
 
--Como rodar o trabalho na sua máquina
+
+# Como rodar o trabalho na sua máquina
 
 Se quiser conferir os códigos, basta clonar o repositório:
 
@@ -28,5 +29,6 @@ Se quiser conferir os códigos, basta clonar o repositório:
  
 por exemplo: python3 nome_do_arquivo.py
 
-Considerações finais
+# Considerações finais
+
 Esse trabalho foi uma ótima oportunidade para colocar em prática os conteúdos estudados na faculdade, entender melhor a lógica de programação e me preparar para desafios futuros. Se você tiver sugestões ou dúvidas, ficarei feliz em trocar uma ideia!
