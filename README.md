@@ -4,11 +4,18 @@ Este trabalho tem como objetivo fixar os conceitos básicos de programação em 
 
 O que eu aprendi e pratiquei aqui:
 
--Como usar if, elif e else para tomar decisões no código — por exemplo, exibindo mensagens diferentes conforme a temperatura ou o tempo de experiência.
+-Como usar if, elif e else para tomar decisões no código 
+
+— por exemplo, exibindo mensagens diferentes conforme a temperatura ou o tempo de experiência.
+
 -A importância dos laços de repetição (while e for) para lidar com entradas do usuário e para percorrer textos.
+
 -Como criar funções, desde as mais simples até as que recebem parâmetros e retornam valores, deixando o código mais organizado.
+
 -Construir uma pequena calculadora que soma, subtrai, multiplica e divide números, com cuidado especial para evitar divisão por zero.
+
 -Tudo isso com uma pegada interativa, pedindo dados no terminal para deixar o aprendizado mais dinâmico.
+
 -Como rodar o trabalho na sua máquina
 
 Se quiser conferir os códigos, basta clonar o repositório:
