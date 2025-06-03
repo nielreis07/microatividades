@@ -14,9 +14,12 @@ O que eu aprendi e pratiquei aqui:
 Se quiser conferir os códigos, basta clonar o repositório:
 
 -git clone https://github.com/seuusuario/microatividades.git
+
 -cd microatividades
--Depois é só executar os arquivos Python que desejar, por exemplo:
-python3 nome_do_arquivo.py
+
+-Depois é só executar os arquivos Python que desejar.
+ 
+por exemplo: python3 nome_do_arquivo.py
 
 Considerações finais
 Esse trabalho foi uma ótima oportunidade para colocar em prática os conteúdos estudados na faculdade, entender melhor a lógica de programação e me preparar para desafios futuros. Se você tiver sugestões ou dúvidas, ficarei feliz em trocar uma ideia!
