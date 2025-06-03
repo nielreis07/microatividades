@@ -6,7 +6,7 @@ O que eu aprendi e pratiquei aqui:
 
 -Como usar if, elif e else para tomar decisões no código 
 
-— por exemplo, exibindo mensagens diferentes conforme a temperatura ou o tempo de experiência.
+—por exemplo, exibindo mensagens diferentes conforme a temperatura ou o tempo de experiência.
 
 -A importância dos laços de repetição (while e for) para lidar com entradas do usuário e para percorrer textos.
 
